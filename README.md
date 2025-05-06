@@ -14,4 +14,16 @@ các file zip được dowloads về và giải nén thành file csv: <br>
 ![image](https://github.com/user-attachments/assets/9a23efcc-afc4-4b45-b32e-bb3d0d2d7c25)
 
 
+## Exercise-2
+
+code tìm đường link và tải về thành file csv
+Ảnh 1:
+![image](https://github.com/user-attachments/assets/0c7ae248-2dca-4e04-a60d-fd83be684e59)
+Ảnh 2:
+![image](https://github.com/user-attachments/assets/bf75f5c2-8fbc-40e5-a7da-7a225fd93deb)
+
+<br>
+kết quả file csv: <br>
+![image](https://github.com/user-attachments/assets/1a88e97d-4ec1-4117-aa24-4718978ee63b)
+
 

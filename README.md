@@ -2,7 +2,6 @@ Thông tin sinh viên: <br>
 Họ và tên: <br>
 + Nguyễn Tấn Khang - MSSV: 23722301 <br>
 + Nguyễn Vũ Hà     - MSSV: 23705991 <br>
-+ Khuất Quốc Khánh - MSSV 23711381 <br>
 
 ## Data Engineering Practice Problems
 One of the main obstacles of Data Engineering is the large

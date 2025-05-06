@@ -5,11 +5,12 @@ Khuất Quốc Khánh     mssv: 23711381 <br>
 
 ### Exercise 1 
 Code dowload file zip: <br>
-![image](https://github.com/user-attachments/assets/1375be21-cd0b-43bd-a36b-710f43cd12e0)
+ảnh 1: <br>
+![image](https://github.com/user-attachments/assets/d113a421-159d-4a1f-b4c2-93e7a4e16d61)
+ảnh 2: <br>
+![image](https://github.com/user-attachments/assets/df47d687-e056-458d-902d-1193b29c83b6)
 
+các file zip được dowloads về và giải nén thành file csv: <br>
+![Uploading image.png…]()
 
-folder dowload được tạo từ code  <br>
-![image](https://github.com/user-attachments/assets/7391bd6a-dac4-49cb-b97c-6e5508a91c7b)
-Các file zip dowload từ code:
-![image](https://github.com/user-attachments/assets/470520ba-9297-447c-afe6-3a82af41f825)
 

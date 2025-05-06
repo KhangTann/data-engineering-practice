@@ -21,19 +21,13 @@ Bước 4: kết quả
 
 
 
+<br><br><br>
 
 
-
-## Exercise-2
-
-code tìm đường link và tải về thành file csv
-Ảnh 1:
-![image](https://github.com/user-attachments/assets/0c7ae248-2dca-4e04-a60d-fd83be684e59)
-Ảnh 2:
-![image](https://github.com/user-attachments/assets/bf75f5c2-8fbc-40e5-a7da-7a225fd93deb)
-
-<br>
-kết quả file csv: <br>
-![image](https://github.com/user-attachments/assets/1a88e97d-4ec1-4117-aa24-4718978ee63b)
-
+# Exercise-2
++ Bước 1: di chuyển vào folder exercise-2 và build image exercse-2
+![image](https://github.com/user-attachments/assets/d75ce2dd-a3e4-4b91-88d4-1299f1bfc788)
++ Bước 2: Viết code cào web và tìm kiếm đường link chứa thời gian là "2024-01-19 10:27" để tiến hành tải về
+![image](https://github.com/user-attachments/assets/6ee45a8a-1550-4e17-8bf1-9104e66417c5)
++ Bước 3: Vào lại terminal, chạy lệnh docker-compose up run để chạy docker chứa main.py và tiến hành cào web, tìm đường link rồi tải
 

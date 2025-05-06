@@ -30,4 +30,9 @@ Bước 4: kết quả
 + Bước 2: Viết code cào web và tìm kiếm đường link chứa thời gian là "2024-01-19 10:27" để tiến hành tải về
 ![image](https://github.com/user-attachments/assets/6ee45a8a-1550-4e17-8bf1-9104e66417c5)
 + Bước 3: Vào lại terminal, chạy lệnh docker-compose up run để chạy docker chứa main.py và tiến hành cào web, tìm đường link rồi tải
+![image](https://github.com/user-attachments/assets/5c5fb88c-e883-4908-a69a-65461c81938b)
++ Bước 4: kết quả
+![image](https://github.com/user-attachments/assets/8a924938-1bef-4608-bad1-593b476c111c)
+
+
 

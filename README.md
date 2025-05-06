@@ -11,6 +11,7 @@ Code dowload file zip: <br>
 ![image](https://github.com/user-attachments/assets/df47d687-e056-458d-902d-1193b29c83b6)
 
 các file zip được dowloads về và giải nén thành file csv: <br>
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9a23efcc-afc4-4b45-b32e-bb3d0d2d7c25)
+
 
 

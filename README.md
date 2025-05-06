@@ -1,5 +1,10 @@
-## Data Engineering Practice Problems
+Thông tin sinh viên: 
+Nguyễn Tấn Khang  mssv: 23722301
+Nguyễn Vũ Hà  mssv: 23705991
+Khuất Quốc Khánh mssv: 23711381
 
+
+## Data Engineering Practice Problems
 One of the main obstacles of Data Engineering is the large
 and varied technical skills that can be required on a 
 day-to-day basis.

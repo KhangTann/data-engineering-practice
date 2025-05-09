@@ -7,12 +7,12 @@ Họ và tên: <br>
 Bài tập <br> 
 Báo cáo <br>
 Lab 8: <br>
-Case 1: Nhóm đã hoàn thành việc tự động cào dữ liệu tỷ giá từ x-rates.com và lưu vào file CSV. Sau đó huấn luyện mô hình RandomForest để phân loại tỷ giá tăng hay giảm và lưu mô hình.
+Case 1: Nhóm đã hoàn thành việc tự động cào dữ liệu tỷ giá từ x-rates.com và lưu vào file CSV. Sau đó huấn luyện mô hình RandomForest để phân loại tỷ giá tăng hay giảm và lưu mô hình.<br>
 ![image](https://github.com/user-attachments/assets/5e191cea-f3d7-424f-8646-435b59bea362) <br>
 ![image](https://github.com/user-attachments/assets/b365ee69-c93a-4103-b83a-5a0fa1839a90) <br>
-Case 2: Nhóm đã hoàn thành việc tự động cào tỷ giá ngoại tệ từ web và lưu vào file rates.csv. Sau đó huấn luyện mô hình phân loại tăng/giảm tỷ giá và in độ chính xác.
+Case 2: Nhóm đã hoàn thành việc tự động cào tỷ giá ngoại tệ từ web và lưu vào file rates.csv. Sau đó huấn luyện mô hình phân loại tăng/giảm tỷ giá và in độ chính xác.<br>
 ![image](https://github.com/user-attachments/assets/d7ce995d-8122-4435-b42e-0e108ca699bc) <br>
-![image](https://github.com/user-attachments/assets/ed1198cd-49f5-4a88-9201-2544ea9ba745)
+![image](https://github.com/user-attachments/assets/ed1198cd-49f5-4a88-9201-2544ea9ba745)<br>
 
 
 Lab 9: <br>

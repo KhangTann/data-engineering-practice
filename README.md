@@ -7,6 +7,9 @@ Họ và tên: <br>
 Bài tập <br> 
 Báo cáo <br>
 Lab 8: <br>
+Case 1: Nhóm đã hoàn thành việc tự động cào dữ liệu tỷ giá từ x-rates.com và lưu vào file CSV. Sau đó huấn luyện mô hình RandomForest để phân loại tỷ giá tăng hay giảm và lưu mô hình.
+![image](https://github.com/user-attachments/assets/5e191cea-f3d7-424f-8646-435b59bea362) <br>
+![image](https://github.com/user-attachments/assets/b365ee69-c93a-4103-b83a-5a0fa1839a90) <br>
 
 Lab 9: <br>
 Exercise-1 Các thành viên đã hoàn chỉnh file *main.py* trong folder của bài tập này. Khi chạy code thì đã tải và giải nén thành công các file trong các URL ban đầu vào folder *downloads* như đề bài yêu cầu, ngoại trừ file *Divvy_Trips_2220_Q1.zip* là bị lỗi không giải nén được. 

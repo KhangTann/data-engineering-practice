@@ -29,4 +29,6 @@ Pipeline Nhóm thống nhất sử dụng Airflow để triển khai pipeline, d
 Exercise-6 Thành viên sử dụng thư viện pyspark để hoàn thành phần này, đọc từ 2 file zip mà không cần giải nén, trả lời 6 câu hỏi của bài và được lưu trong thư mục requests
 ![image](https://github.com/user-attachments/assets/ace93819-c1ab-4f2f-b027-c8039be4782f)<br>
 
-Exercise-7 Mỗi thành viên đã sử dụng thư viện riêng phù hợp của pyspark để hoàn thành bài tập này, file data bên trong đã được các thư viện ấy xử lý. từng thành viên đã hoàn thành được:Thêm tên tệp dưới dạng một cột, Kéo phần datenằm bên trong chuỗi của source_filecột, Thêm một cột mới có tên là brand, Kiểm tra một cột có tên là capacity_bytes, Tạo một cột có tên primary_keylà hashcột tạo nên bản ghi umique trong tập dữ liệu này.
+Exercise-7 Mỗi thành viên đã sử dụng thư viện riêng phù hợp của pyspark để hoàn thành bài tập này, file data bên trong đã được các thư viện ấy xử lý. từng thành viên đã hoàn thành được:Thêm tên tệp dưới dạng một cột, Kéo phần datenằm bên trong chuỗi của source_filecột, Thêm một cột mới có tên là brand, Kiểm tra một cột có tên là capacity_bytes, Tạo một cột có tên primary_keylà hashcột tạo nên bản ghi umique trong tập dữ liệu này. <br>
+![image](https://github.com/user-attachments/assets/602bfd16-5111-443e-954d-f66b1541d2b1)
+
